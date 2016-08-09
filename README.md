@@ -13,4 +13,4 @@ LoadLibraryExW = (PLOADLIBRARYEXW)GetProcAddress((HMODULE)mbi.AllocationBase, "L
 See Reker::NativeLib::RKShell::LaunchSessionByUri(String^ szUri)
 ```
 
-Things like change volume are under research and maybe nerver update again because of Windows 10 Mobile are released.
+Things like change volume are under research and maybe never update again because Windows 10 Mobile are released.
